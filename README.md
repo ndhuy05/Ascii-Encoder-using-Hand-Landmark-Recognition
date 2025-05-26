@@ -4,7 +4,7 @@
 
 **CourseworkAppDevWinForms** is a Windows Forms application that provides advanced string processing features, including encoding, ASCII code conversion, and sorting. It also integrates with Python and computer vision libraries to allow users to input text by writing in the air with their finger, using a webcam and hand landmark detection.
 
-![Hand Landmark Demo](images/hand_landmark_result.png)
+![Hand Landmark Demo](images/hand_landmark.png)
 ![Hand Landmark Demo](images/hand_landmark_result.png)
 *Demonstration: Hand landmark detection and air-writing recognition using Python and MediaPipe.*
 
