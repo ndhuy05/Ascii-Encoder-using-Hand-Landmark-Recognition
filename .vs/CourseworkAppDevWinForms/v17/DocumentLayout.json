@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\CourseworkAppDevWinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C440D900-CB4B-42AA-BE4B-10CC8FE8CF86}|CourseworkAppDevWinForms\\CourseworkAppDevWinForms.csproj|C:\\Users\\Admin\\Documents\\CourseworkAppDevWinForms\\courseworkappdevwinforms\\stringprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C440D900-CB4B-42AA-BE4B-10CC8FE8CF86}|CourseworkAppDevWinForms\\CourseworkAppDevWinForms.csproj|solutionrelative:courseworkappdevwinforms\\stringprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C440D900-CB4B-42AA-BE4B-10CC8FE8CF86}|CourseworkAppDevWinForms\\CourseworkAppDevWinForms.csproj|c:\\users\\admin\\documents\\courseworkappdevwinforms\\courseworkappdevwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C440D900-CB4B-42AA-BE4B-10CC8FE8CF86}|CourseworkAppDevWinForms\\CourseworkAppDevWinForms.csproj|solutionrelative:courseworkappdevwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C440D900-CB4B-42AA-BE4B-10CC8FE8CF86}|CourseworkAppDevWinForms\\CourseworkAppDevWinForms.csproj|C:\\Users\\Admin\\Documents\\CourseworkAppDevWinForms\\courseworkappdevwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C440D900-CB4B-42AA-BE4B-10CC8FE8CF86}|CourseworkAppDevWinForms\\CourseworkAppDevWinForms.csproj|solutionrelative:courseworkappdevwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C440D900-CB4B-42AA-BE4B-10CC8FE8CF86}|CourseworkAppDevWinForms\\CourseworkAppDevWinForms.csproj|C:\\Users\\Admin\\Documents\\CourseworkAppDevWinForms\\courseworkappdevwinforms\\abstractstringprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C440D900-CB4B-42AA-BE4B-10CC8FE8CF86}|CourseworkAppDevWinForms\\CourseworkAppDevWinForms.csproj|solutionrelative:courseworkappdevwinforms\\abstractstringprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C440D900-CB4B-42AA-BE4B-10CC8FE8CF86}|CourseworkAppDevWinForms\\CourseworkAppDevWinForms.csproj|C:\\Users\\Admin\\Documents\\CourseworkAppDevWinForms\\courseworkappdevwinforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C440D900-CB4B-42AA-BE4B-10CC8FE8CF86}|CourseworkAppDevWinForms\\CourseworkAppDevWinForms.csproj|solutionrelative:courseworkappdevwinforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C440D900-CB4B-42AA-BE4B-10CC8FE8CF86}|CourseworkAppDevWinForms\\CourseworkAppDevWinForms.csproj|C:\\Users\\Admin\\Documents\\CourseworkAppDevWinForms\\courseworkappdevwinforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C440D900-CB4B-42AA-BE4B-10CC8FE8CF86}|CourseworkAppDevWinForms\\CourseworkAppDevWinForms.csproj|solutionrelative:courseworkappdevwinforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C440D900-CB4B-42AA-BE4B-10CC8FE8CF86}|CourseworkAppDevWinForms\\CourseworkAppDevWinForms.csproj|C:\\Users\\Admin\\Documents\\CourseworkAppDevWinForms\\courseworkappdevwinforms\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C440D900-CB4B-42AA-BE4B-10CC8FE8CF86}|CourseworkAppDevWinForms\\CourseworkAppDevWinForms.csproj|solutionrelative:courseworkappdevwinforms\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\CourseworkAppDevWinForms\\CourseworkAppDevWinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "CourseworkAppDevWinForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\CourseworkAppDevWinForms\\CourseworkAppDevWinForms\\Form1.cs",
+              "RelativeToolTip": "CourseworkAppDevWinForms\\Form1.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAwwOQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T13:49:15.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\CourseworkAppDevWinForms\\CourseworkAppDevWinForms\\packages.config",
+              "RelativeDocumentMoniker": "CourseworkAppDevWinForms\\packages.config",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\CourseworkAppDevWinForms\\CourseworkAppDevWinForms\\packages.config",
+              "RelativeToolTip": "CourseworkAppDevWinForms\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-07T14:26:49.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringProcessing.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\CourseworkAppDevWinForms\\CourseworkAppDevWinForms\\StringProcessing.cs",
+              "RelativeDocumentMoniker": "CourseworkAppDevWinForms\\StringProcessing.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\CourseworkAppDevWinForms\\CourseworkAppDevWinForms\\StringProcessing.cs",
+              "RelativeToolTip": "CourseworkAppDevWinForms\\StringProcessing.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAmwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T13:56:13.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\CourseworkAppDevWinForms\\CourseworkAppDevWinForms\\Program.cs",
+              "RelativeDocumentMoniker": "CourseworkAppDevWinForms\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\CourseworkAppDevWinForms\\CourseworkAppDevWinForms\\Program.cs",
+              "RelativeToolTip": "CourseworkAppDevWinForms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T13:54:54.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\CourseworkAppDevWinForms\\CourseworkAppDevWinForms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CourseworkAppDevWinForms\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\CourseworkAppDevWinForms\\CourseworkAppDevWinForms\\Form1.Designer.cs",
+              "RelativeToolTip": "CourseworkAppDevWinForms\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T13:55:00.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AbstractStringProcessing.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\CourseworkAppDevWinForms\\CourseworkAppDevWinForms\\AbstractStringProcessing.cs",
+              "RelativeDocumentMoniker": "CourseworkAppDevWinForms\\AbstractStringProcessing.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\CourseworkAppDevWinForms\\CourseworkAppDevWinForms\\AbstractStringProcessing.cs",
+              "RelativeToolTip": "CourseworkAppDevWinForms\\AbstractStringProcessing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T02:12:04.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\CourseworkAppDevWinForms\\CourseworkAppDevWinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "CourseworkAppDevWinForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\CourseworkAppDevWinForms\\CourseworkAppDevWinForms\\Form1.cs [Design]",
+              "RelativeToolTip": "CourseworkAppDevWinForms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T13:46:32.941Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
